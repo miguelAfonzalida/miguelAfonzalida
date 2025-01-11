@@ -1,4 +1,4 @@
-# Hi, I'm Miguel Afonzalida! 👋
+# Hi, I'm Miguel Fonzalida! 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, open source contributions, and continuous learning. Here's a bit more about me:
 
